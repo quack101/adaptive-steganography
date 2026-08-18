@@ -1,7 +1,5 @@
 # Diffusion-Based Nested Audio Steganography
 
-## Overview
-
 This project explores a generative steganography approach for concealing encrypted data within AI-generated multimedia carriers.
 
 The current implementation uses **Riffusion**, a diffusion-based audio generation approach that represents audio as spectrogram images. The project combines generative media, cryptography, error correction, and multi-carrier data hiding.
